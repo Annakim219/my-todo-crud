@@ -3,21 +3,16 @@
     {
       "id": 1,
       "todo": "Figma로 wireframe 그리기",
-      "done": true
+      "done": false
     },
     {
       "id": 2,
       "todo": "Json-sever로 데이터 정리",
-      "done": true
+      "done": false
     },
     {
       "id": 3,
       "todo": "CRUD 앱 구현",
-      "done": true
-    },
-    {
-      "id": 4,
-      "todo": "배포",
       "done": false
     }
   ]
