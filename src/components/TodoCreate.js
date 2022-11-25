@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import styled, { css } from "styled-components";
 import { MdAdd } from "react-icons/md";
 
@@ -74,8 +74,6 @@ const Input = styled.input`
   font-size: 18px;
   box-sizing: border-box;
 `;
-
-const { REACT_APP_BACKEND_URL } = process.env;
 
 function TodoCreate({ handleNewTodo, newTodo, setNewTodo }) {
   // 토글
