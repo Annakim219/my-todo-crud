@@ -2,18 +2,18 @@
   "todos": [
     {
       "id": 1,
-      "todo": "Figma로 wireframe 그리기",
-      "done": false
+      "todo": "할 일 완료",
+      "done": true
     },
     {
       "id": 2,
-      "todo": "Json-sever로 데이터 정리",
+      "todo": "할 일 미완료",
       "done": false
     },
     {
       "id": 3,
-      "todo": "CRUD 앱 구현",
-      "done": false
+      "todo": "할 일 추가",
+      "done": true
     }
   ]
 }
