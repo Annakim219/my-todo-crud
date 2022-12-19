@@ -1,13 +1,14 @@
 # my-todo-crud
 
 ## ⭐️ 시연 영상
-https://user-images.githubusercontent.com/97003692/208363668-7939b67e-4de8-435d-aa7f-6b6888d2cc8e.mov
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97003692/208364695-8092b8d9-9ae9-4412-aacc-0fab218e104f.gif)
 ---
+
 
 ## 사용 기술 스택 및 라이브러리
 - Framework : React.js
 - CSS-IN-JS : Styled Components
-- REST API 요청 및 응답 : axios
+- REST API 요청 및 응답 : JSON-server
 - 아이콘 : react-icons
 - 라우팅 및 리다이렉트 : react-router-dom
 
